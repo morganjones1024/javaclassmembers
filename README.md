@@ -17,3 +17,4 @@ The instructor's name is Scott Dossey
 
 
 * Morgan Jones
+* Martin Torrey
